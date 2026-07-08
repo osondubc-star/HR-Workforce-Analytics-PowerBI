@@ -106,7 +106,7 @@ Raw HR data was extracted from a single Employee_Data table containing 2,080 rec
 
 ----
 
-![Executive Overview](https://raw.githubusercontent.com/osondubc-star/apexbank-hr-workforce-dashboard/main/Executive_overview.png)
+![Executive Overview](https://github.com/osondubc-star/HR-Workforce-Analytics-PowerBI/blob/main/Executive_overview.png)
 
 The executive overview shows ApexBank employs **2,000 total employees**, of whom **1,696 are active** and **304 have exited** — resigned, terminated, or otherwise separated. This puts the overall **attrition rate at 15.2%**, which sits within the stable 10–18% range typical for the banking sector, though close enough to the upper bound to warrant ongoing monitoring. Average gross salary across the bank sits at **₦1.01M**, with an average performance rating of **3.04**.
 
@@ -118,7 +118,7 @@ Workforce distribution by department (active employees) shows **Retail Banking (
 
 ----
 
-![Workforce Overview](https://raw.githubusercontent.com/osondubc-star/apexbank-hr-workforce-dashboard/main/Workforce_overview.png)
+![Workforce Overview](https://github.com/osondubc-star/HR-Workforce-Analytics-PowerBI/blob/main/Workforce_overview.png)
 
 |    Metric                        |     Value          |
 |------------------------------------|---------------------|
@@ -179,7 +179,7 @@ Based on the analysis across all dimensions, the following strategic recommendat
 
 ## Dashboard
 
-![Dashboard Suite](https://raw.githubusercontent.com/osondubc-star/apexbank-hr-workforce-dashboard/main/Summary.png)
+![Dashboard Suite](https://github.com/osondubc-star/HR-Workforce-Analytics-PowerBI/blob/main/Summary.png)
 
 - Espresso-brown KPI cards: Key headline metrics for quick scanning
 - Donut chart: Gender distribution breakdown
